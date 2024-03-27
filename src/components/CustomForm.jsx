@@ -14,7 +14,7 @@ const CustomForm = ({addTask}) => {
         });
         setTask("");
     }
-
+    
     return (
         <form 
             className="todo"
